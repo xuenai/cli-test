@@ -1,6 +1,6 @@
 {
   "name": "cli-test-xxx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cli-test-xxx-lib": "^1.1.0"
+  }
 }
