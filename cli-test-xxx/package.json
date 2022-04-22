@@ -7,12 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "xt": "bin/index.js"
+    "hj": "bin/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cli-test-xxx-lib": "^1.1.0"
+    "cli-test-xxx-lib": "^1.1.0",
+    "yargs": "^17.4.1"
   }
 }
